@@ -1,0 +1,2 @@
+# PCBCUPID-NAU8325-AMP
+NAU8325 codec + 3W amplifier
